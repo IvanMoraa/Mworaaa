@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Mworaaa
+- 👀 I’m interested in Software Development && BackEnd
+- 🌱 I’m currently learning .NET
+- 💞️ I’m looking to collaborate with anyone
+- 📫 How to reach me:
+- 🌟 Discord: Mworaaa
